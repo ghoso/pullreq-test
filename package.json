@@ -1,0 +1,14 @@
+{
+  "name": "pullreq-test",
+  "author": "go@it-akademeia.jp",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "26.1.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
+}
